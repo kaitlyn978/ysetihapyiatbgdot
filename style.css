@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    background-position:center ;
+    font-family: 'Dancing Script', cursive;
+    color: white;
+}
+#copy_right_footer{
+size: 25;
+}
+.copy_right_footer{
+font-size: 25px;
+color:white;
+}
+.col-xs-12_header_div_text-center{
+    font-size: 25;
+}
+.btn btn-success{
+    background-color: pink;
+}
